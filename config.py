@@ -1,5 +1,5 @@
 customhost = "employee.cfahj9euseq0.us-east-1.rds.amazonaws.com"
-Customuser = "admin"
+customuser = "admin"
 custompass = "senai115"
 customdb = "employe"
 custombucket = "addemployeegcn45"
