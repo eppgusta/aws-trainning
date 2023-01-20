@@ -8,6 +8,7 @@ sudo apt-get install python3
 sudo apt-get install python3-flask
 sudo apt-get install python3-pymysql
 sudo apt-get install python3-boto
+pip3 install pymysql boto3
 
 
 # for running application
